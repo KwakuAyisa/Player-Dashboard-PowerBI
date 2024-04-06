@@ -11,7 +11,7 @@ The goal of the project was to create an interactive PowerBI dashboard to displa
 
 •	The data includes bio data of players, ratings across different metrics, details on which players are considered the best in the group. 
 
-ANSWERING THE QUESTIONS
+**QUESTIONS**
 
 •	What do players rate themselves for pace, shooting, passing, dribbling, defending and physicality?
 
