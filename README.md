@@ -1,6 +1,6 @@
 **GOAL OF THE PROJECT**
 
-The goal of the project was to create an interactive PowerBI dashboard to display the individual player ratings for a group of friends who play football together. The dashboard was made to be interactive to allow people to view the stats of different players.
+The goal of the project was to create an interactive PowerBI dashboard to display the individual player ratings for a group of friends who play football together. The dashboard was made to be interactive to allow people to view the stats of different players. This helps them realize where their performance metrics are in comparison with other players. This information can be used to identify areas of strength, where improvement is needed as well as optimum positions on the pitch.
 
 
 **THE DATA**
