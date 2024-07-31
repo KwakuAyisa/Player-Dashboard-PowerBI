@@ -38,3 +38,5 @@ PowerBI
 3.	Downloaded and used a 5-star visual to present the skill move ratings.
 4.	Created a slicer to help filter the attribute chart by individual player.
 
+5.	Link to the interactive dashboard: https://rb.gy/h0pthq
+
